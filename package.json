@@ -1,0 +1,24 @@
+{
+  "name": "bluetoothchat",
+  "version": "1.0.0",
+  "description": "node pwa",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server-debug": "nodemon --inspect server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palind1990/bluetoothChat.git"
+  },
+  "author": "justin ooghe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palind1990/bluetoothChat/issues"
+  },
+  "homepage": "https://github.com/palind1990/bluetoothChat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
