@@ -1,0 +1,18 @@
+.outer{
+    width: 900px;
+    margin: auto;
+}
+.room{
+    margin: 5px;
+    float: center;
+}
+.messages{
+    margin:5px;
+    height: 300px;
+    border: solid 2px grey;
+    max-width: 90%;
+}
+.txt-send{
+    min-width: 200px;
+    margin:5px;
+}
